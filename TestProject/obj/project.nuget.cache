@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qsc7B3qle9Zojr7Khf6htcJmUhHXiHGFwiWd4TicjP5MTXe3xfdwhOcWhP6TT8muWGRaNELXejv+WP4Y0eADbA==",
+  "dgSpecHash": "VK4sB7ImdN94j9NwdFqqI/OT6SXCTh9HBrKMWcumIrXgtHrLraaX6DW8J4yooW1nqn6lalANZX7WbiGpp5oiCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\ConsoleApp\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,7 @@
     "C:\\Users\\user\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nunit.console\\3.14.0\\nunit.console.3.14.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\nunit.consolerunner\\3.14.0\\nunit.consolerunner.3.14.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\nunit.consolerunner\\3.16.0\\nunit.consolerunner.3.16.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
