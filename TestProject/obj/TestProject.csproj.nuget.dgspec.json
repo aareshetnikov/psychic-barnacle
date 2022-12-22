@@ -106,6 +106,10 @@
               "target": "Package",
               "version": "[3.13.1, )"
             },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[3.17.0, )"
